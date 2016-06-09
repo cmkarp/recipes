@@ -1,0 +1,10 @@
+Ingredients:
+ - 6 eggs
+ - some butter
+
+Directions:
+  1. In a frying pan, melt the butter and cover the pan
+  2. Crack eggs into a bowl and beat eggs.
+  3. Pour into frying pan when the butter is hot.
+  4. Flip the eggs when it gets cooked on the bottom
+  5. Serve hot.
